@@ -1,0 +1,408 @@
+[
+  {
+    "text": " Pourquoi",
+    "startMs": 333,
+    "endMs": 1000,
+    "timestampMs": 333,
+    "confidence": 1.0
+  },
+  {
+    "text": " Flutter",
+    "startMs": 1000,
+    "endMs": 1667,
+    "timestampMs": 1000,
+    "confidence": 1.0
+  },
+  {
+    "text": " ?",
+    "startMs": 1667,
+    "endMs": 2400,
+    "timestampMs": 1667,
+    "confidence": 1.0
+  },
+  {
+    "text": " Le framework",
+    "startMs": 2400,
+    "endMs": 3200,
+    "timestampMs": 2400,
+    "confidence": 1.0
+  },
+  {
+    "text": " numéro un",
+    "startMs": 3200,
+    "endMs": 3900,
+    "timestampMs": 3200,
+    "confidence": 1.0
+  },
+  {
+    "text": " pour les devs solo",
+    "startMs": 3900,
+    "endMs": 5000,
+    "timestampMs": 3900,
+    "confidence": 1.0
+  },
+  {
+    "text": " et les startups.",
+    "startMs": 5000,
+    "endMs": 5800,
+    "timestampMs": 5000,
+    "confidence": 1.0
+  },
+  {
+    "text": " Le dilemme",
+    "startMs": 6000,
+    "endMs": 6800,
+    "timestampMs": 6000,
+    "confidence": 1.0
+  },
+  {
+    "text": " du développeur solo.",
+    "startMs": 6800,
+    "endMs": 7900,
+    "timestampMs": 6800,
+    "confidence": 1.0
+  },
+  {
+    "text": " iOS avec Swift,",
+    "startMs": 7900,
+    "endMs": 9000,
+    "timestampMs": 7900,
+    "confidence": 1.0
+  },
+  {
+    "text": " Android avec Kotlin,",
+    "startMs": 9000,
+    "endMs": 10200,
+    "timestampMs": 9000,
+    "confidence": 1.0
+  },
+  {
+    "text": " Web avec React.",
+    "startMs": 10200,
+    "endMs": 11300,
+    "timestampMs": 10200,
+    "confidence": 1.0
+  },
+  {
+    "text": " Trois bases de code,",
+    "startMs": 11300,
+    "endMs": 12300,
+    "timestampMs": 11300,
+    "confidence": 1.0
+  },
+  {
+    "text": " trois langages,",
+    "startMs": 12300,
+    "endMs": 13100,
+    "timestampMs": 12300,
+    "confidence": 1.0
+  },
+  {
+    "text": " un seul développeur.",
+    "startMs": 13100,
+    "endMs": 14200,
+    "timestampMs": 13100,
+    "confidence": 1.0
+  },
+  {
+    "text": " Et s'il existait",
+    "startMs": 14200,
+    "endMs": 15000,
+    "timestampMs": 14200,
+    "confidence": 1.0
+  },
+  {
+    "text": " une seule solution ?",
+    "startMs": 15000,
+    "endMs": 15900,
+    "timestampMs": 15000,
+    "confidence": 1.0
+  },
+  {
+    "text": " Un seul code.",
+    "startMs": 16200,
+    "endMs": 17100,
+    "timestampMs": 16200,
+    "confidence": 1.0
+  },
+  {
+    "text": " Toutes les plateformes.",
+    "startMs": 17100,
+    "endMs": 18200,
+    "timestampMs": 17100,
+    "confidence": 1.0
+  },
+  {
+    "text": " Flutter compile",
+    "startMs": 18200,
+    "endMs": 19100,
+    "timestampMs": 18200,
+    "confidence": 1.0
+  },
+  {
+    "text": " sur iOS, Android,",
+    "startMs": 19100,
+    "endMs": 20200,
+    "timestampMs": 19100,
+    "confidence": 1.0
+  },
+  {
+    "text": " Web, macOS,",
+    "startMs": 20200,
+    "endMs": 21100,
+    "timestampMs": 20200,
+    "confidence": 1.0
+  },
+  {
+    "text": " Linux et Windows.",
+    "startMs": 21100,
+    "endMs": 22200,
+    "timestampMs": 21100,
+    "confidence": 1.0
+  },
+  {
+    "text": " Écrivez une fois,",
+    "startMs": 22200,
+    "endMs": 23100,
+    "timestampMs": 22200,
+    "confidence": 1.0
+  },
+  {
+    "text": " déployez partout.",
+    "startMs": 23100,
+    "endMs": 24000,
+    "timestampMs": 23100,
+    "confidence": 1.0
+  },
+  {
+    "text": " Hot Reload.",
+    "startMs": 24200,
+    "endMs": 25100,
+    "timestampMs": 24200,
+    "confidence": 1.0
+  },
+  {
+    "text": " Développez",
+    "startMs": 25100,
+    "endMs": 25800,
+    "timestampMs": 25100,
+    "confidence": 1.0
+  },
+  {
+    "text": " plus vite.",
+    "startMs": 25800,
+    "endMs": 26500,
+    "timestampMs": 25800,
+    "confidence": 1.0
+  },
+  {
+    "text": " Modifiez votre code",
+    "startMs": 26500,
+    "endMs": 27600,
+    "timestampMs": 26500,
+    "confidence": 1.0
+  },
+  {
+    "text": " et voyez le résultat",
+    "startMs": 27600,
+    "endMs": 28500,
+    "timestampMs": 27600,
+    "confidence": 1.0
+  },
+  {
+    "text": " en moins d'une seconde.",
+    "startMs": 28500,
+    "endMs": 29500,
+    "timestampMs": 28500,
+    "confidence": 1.0
+  },
+  {
+    "text": " Gagnez plus de deux heures",
+    "startMs": 29500,
+    "endMs": 30600,
+    "timestampMs": 29500,
+    "confidence": 1.0
+  },
+  {
+    "text": " par jour de développement.",
+    "startMs": 30600,
+    "endMs": 31700,
+    "timestampMs": 30600,
+    "confidence": 1.0
+  },
+  {
+    "text": " Un design magnifique,",
+    "startMs": 32000,
+    "endMs": 32900,
+    "timestampMs": 32000,
+    "confidence": 1.0
+  },
+  {
+    "text": " sans effort.",
+    "startMs": 32900,
+    "endMs": 33700,
+    "timestampMs": 32900,
+    "confidence": 1.0
+  },
+  {
+    "text": " Boutons, cartes, listes,",
+    "startMs": 33700,
+    "endMs": 35000,
+    "timestampMs": 33700,
+    "confidence": 1.0
+  },
+  {
+    "text": " barres de navigation.",
+    "startMs": 35000,
+    "endMs": 36100,
+    "timestampMs": 35000,
+    "confidence": 1.0
+  },
+  {
+    "text": " Material 3 et Cupertino",
+    "startMs": 36100,
+    "endMs": 37300,
+    "timestampMs": 36100,
+    "confidence": 1.0
+  },
+  {
+    "text": " inclus nativement.",
+    "startMs": 37300,
+    "endMs": 38100,
+    "timestampMs": 37300,
+    "confidence": 1.0
+  },
+  {
+    "text": " Dart est simple",
+    "startMs": 38400,
+    "endMs": 39200,
+    "timestampMs": 38400,
+    "confidence": 1.0
+  },
+  {
+    "text": " à apprendre.",
+    "startMs": 39200,
+    "endMs": 39900,
+    "timestampMs": 39200,
+    "confidence": 1.0
+  },
+  {
+    "text": " Syntaxe familière,",
+    "startMs": 39900,
+    "endMs": 40800,
+    "timestampMs": 39900,
+    "confidence": 1.0
+  },
+  {
+    "text": " typage sûr,",
+    "startMs": 40800,
+    "endMs": 41500,
+    "timestampMs": 40800,
+    "confidence": 1.0
+  },
+  {
+    "text": " null-safety intégré.",
+    "startMs": 41500,
+    "endMs": 42500,
+    "timestampMs": 41500,
+    "confidence": 1.0
+  },
+  {
+    "text": " Apprenez Dart en un week-end",
+    "startMs": 42500,
+    "endMs": 43800,
+    "timestampMs": 42500,
+    "confidence": 1.0
+  },
+  {
+    "text": " si vous connaissez JavaScript.",
+    "startMs": 43800,
+    "endMs": 45000,
+    "timestampMs": 43800,
+    "confidence": 1.0
+  },
+  {
+    "text": " Parfait pour les startups.",
+    "startMs": 45200,
+    "endMs": 46200,
+    "timestampMs": 45200,
+    "confidence": 1.0
+  },
+  {
+    "text": " Une équipe au lieu de trois,",
+    "startMs": 46200,
+    "endMs": 47300,
+    "timestampMs": 46200,
+    "confidence": 1.0
+  },
+  {
+    "text": " cinquante pourcent",
+    "startMs": 47300,
+    "endMs": 48000,
+    "timestampMs": 47300,
+    "confidence": 1.0
+  },
+  {
+    "text": " plus rapide sur le marché.",
+    "startMs": 48000,
+    "endMs": 49100,
+    "timestampMs": 48000,
+    "confidence": 1.0
+  },
+  {
+    "text": " Google Pay, BMW, Alibaba",
+    "startMs": 49100,
+    "endMs": 50300,
+    "timestampMs": 49100,
+    "confidence": 1.0
+  },
+  {
+    "text": " utilisent Flutter.",
+    "startMs": 50300,
+    "endMs": 51100,
+    "timestampMs": 50300,
+    "confidence": 1.0
+  },
+  {
+    "text": " Commencez avec Flutter",
+    "startMs": 51500,
+    "endMs": 52500,
+    "timestampMs": 51500,
+    "confidence": 1.0
+  },
+  {
+    "text": " aujourd'hui.",
+    "startMs": 52500,
+    "endMs": 53300,
+    "timestampMs": 52500,
+    "confidence": 1.0
+  },
+  {
+    "text": " Rendez-vous sur",
+    "startMs": 53300,
+    "endMs": 54200,
+    "timestampMs": 53300,
+    "confidence": 1.0
+  },
+  {
+    "text": " flutter.dev",
+    "startMs": 54200,
+    "endMs": 55500,
+    "timestampMs": 54200,
+    "confidence": 1.0
+  },
+  {
+    "text": " et lancez votre premier projet",
+    "startMs": 55500,
+    "endMs": 57000,
+    "timestampMs": 55500,
+    "confidence": 1.0
+  },
+  {
+    "text": " dès maintenant.",
+    "startMs": 57000,
+    "endMs": 58000,
+    "timestampMs": 57000,
+    "confidence": 1.0
+  }
+]

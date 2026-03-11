@@ -6,6 +6,7 @@ import {
   interpolate,
   spring,
 } from "remotion";
+import { SubtitleOverlay } from "./SubtitleOverlay";
 import { TransitionSeries, linearTiming } from "@remotion/transitions";
 import { slide } from "@remotion/transitions/slide";
 import { loadFont } from "@remotion/google-fonts/Inter";
@@ -1494,6 +1495,9 @@ export const FlutterVideo: React.FC = () => {
           }}
         />
       </div>
+
+      {/* ── Subtitles ── */}
+      <SubtitleOverlay />
 
       {/* ── Channel watermark ── */}
       <div
